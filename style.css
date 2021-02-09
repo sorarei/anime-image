@@ -1,0 +1,19 @@
+img{
+	width: 30%;
+	float: left;
+	margin:10px;
+}
+h1{
+	font-family: fantasy;
+
+}
+hr{
+	width: 400px;
+
+	position: relative;
+	right: 495px;
+}
+img:hover{
+	transform: scale(1.2);
+	border-radius: 360px;
+}
